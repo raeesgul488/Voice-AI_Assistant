@@ -70,6 +70,3 @@ This starts the agent server, which listens for and joins LiveKit rooms under th
 - **Adjust voice**: Change the `voice` parameter passed to `inference.TTS`.
 - **Noise cancellation model**: Swap `ai_coustics.EnhancerModel.QUAIL_VF_S` for another supported model tier.
 
-## License
-
-Add your license of choice here (e.g., MIT).
